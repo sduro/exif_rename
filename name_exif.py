@@ -47,4 +47,4 @@ def rename_files_in_directory(directory):
                 print(f'{filename}: No se encontraron datos EXIF.')
 
 # Cambia 'tu_directorio' por el directorio donde están tus fotos
-rename_files_in_directory(r'C:\Users\sduro\Downloads')
+rename_files_in_directory(r'C:\Users\Downloads')
